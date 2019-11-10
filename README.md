@@ -1,2 +1,0 @@
-# GST
-my first app
